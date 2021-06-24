@@ -89,7 +89,7 @@ int main(void)
     }
     if(strcmp(a,b))
     {
-        printf("No, string is not a palindrome\n");
+        printf("No, not a palindrome\n");
     }
     else
     {
